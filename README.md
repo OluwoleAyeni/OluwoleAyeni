@@ -2,7 +2,7 @@
 
 <h1 align="left">About Me</h1>
 
-Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, and MongoDB, gained through an intensive bootcamp. Successfully transitioned from leading product management team, such as introducing a credit scoring feature that generated $10,000 monthly and reduced credit risk from 40% to 15%. Skilled in software architecture, server-side development, RESTful API design, and database management, complemented by strategic product planning, stakeholder collaboration, and agile methodologies. This unique blend of technical and product management expertise enables effective bridging of development and strategic execution.
+Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, and MongoDB, gained through an intensive bootcamp. Successfully transitioned from leading product management team, such as introducing a credit scoring feature that generated $10,000 monthly and reduced credit risk from 40% to 15%. Skilled in software architecture, server-side development, RESTful API design, and database management, complemented by strategic product planning, stakeholder collaboration, and agile methodologies. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwoleayeni&label=Profile%20views&color=0e75b6&style=flat" alt="oluwoleayeni" /> </p>
@@ -32,6 +32,9 @@ Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, an
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluwoleayeni&show_icons=true&locale=en&layout=compact" alt="oluwoleayeni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwoleayeni&show_icons=true&locale=en" alt="oluwoleayeni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwoleayeni&" alt="oluwoleayeni" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oluwoleayeni&show_icons=true&locale=en" alt="oluwoleayeni" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwoleayeni&" alt="oluwoleayeni" /></p>
