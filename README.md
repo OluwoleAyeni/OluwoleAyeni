@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oluwole</h1>
 
 <h1 align="left">About Me</h1>
-<h3 align="right">Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, and MongoDB, gained through an intensive bootcamp. Successfully transitioned from leading product management team, such as introducing a credit scoring feature at Terragon Group that generated $10,000 monthly and reduced credit risk from 40% to 15%, to hands-on backend engineering. Skilled in software architecture, server-side development, RESTful API design, and database management, complemented by strategic product planning, stakeholder collaboration, and agile methodologies. This unique blend of technical and product management expertise enables effective bridging of development and strategic execution.</h3>
+
+Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, and MongoDB, gained through an intensive bootcamp. Successfully transitioned from leading product management team, such as introducing a credit scoring feature that generated $10,000 monthly and reduced credit risk from 40% to 15%. Skilled in software architecture, server-side development, RESTful API design, and database management, complemented by strategic product planning, stakeholder collaboration, and agile methodologies. This unique blend of technical and product management expertise enables effective bridging of development and strategic execution.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwoleayeni&label=Profile%20views&color=0e75b6&style=flat" alt="oluwoleayeni" /> </p>
