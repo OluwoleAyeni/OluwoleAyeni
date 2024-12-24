@@ -2,8 +2,7 @@
 
 <h1 align="left">About Me</h1>
 
-Backend Engineer with a strong foundation in JavaScript, Node.js, Express.js, and MongoDB, gained through an intensive bootcamp. Successfully transitioned from leading product management team, such as introducing a credit scoring feature that generated $10,000 monthly and reduced credit risk from 40% to 15%. Skilled in software architecture, server-side development, RESTful API design, and database management, complemented by strategic product planning, stakeholder collaboration, and agile methodologies. 
-
+Highly skilled Backend Engineer with over 3 years of experience in designing, implementing, and optimizing scalable backend systems. Proficient in building secure RESTful APIs, integrating third-party tools, and enhancing database performance to support high-volume transactions. Adept at collaborating with cross-functional teams to deliver innovative solutions that drive business growth and improve user experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwoleayeni&label=Profile%20views&color=0e75b6&style=flat" alt="oluwoleayeni" /> </p>
 
