@@ -4,9 +4,6 @@
 
 Highly skilled Backend Engineer with over 3 years of experience in designing, implementing, and optimizing scalable backend systems. Proficient in building secure RESTful APIs, integrating third-party tools, and enhancing database performance to support high-volume transactions. Adept at collaborating with cross-functional teams to deliver innovative solutions that drive business growth and improve user experience.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwoleayeni&label=Profile%20views&color=0e75b6&style=flat" alt="oluwoleayeni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwoleayeni" alt="oluwoleayeni" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Project**
 
