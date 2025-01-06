@@ -30,7 +30,5 @@ Highly skilled Backend Engineer with over 3 years of experience in designing, im
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oluwoleayeni&show_icons=true&locale=en" alt="oluwoleayeni" /></p>
-
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwoleayeni&" alt="oluwoleayeni" /></p>
